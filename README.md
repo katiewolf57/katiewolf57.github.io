@@ -5,6 +5,6 @@ It has the planets of the solar system, which the user can click on to be taken 
 
 You can also click on an image to be taken to that item's record on it's holding institution's website. 
 
-The site's address: katiewolf57.github.io
+The site's address: https://katiewolf57.github.io/
 
 Here is the repository for the final project: https://github.com/katiewolf57/katiewolf-pch
